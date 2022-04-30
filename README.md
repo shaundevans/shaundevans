@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaundevans
-- 👀 I’m interested in ... Data. Analysis, ML, you name it.  
+- 👀 I’m interested in ... Data.
 - 📫 How to reach me ... shaun.d.evans@gmail.com 
 
 <!---
